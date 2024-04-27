@@ -1,5 +1,5 @@
 # mips_pipeline
-Trabalho de OrgB - mips pipeline
+Trabalho de OrgB - mips pipeline<br/>
 Instruções adicionadas à arquitetura:<br />
 JAL  - Jump and link<br />
 BLTZ - Branch Less than Equal<br />
